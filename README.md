@@ -21,22 +21,6 @@
 
 # 코드 컨벤션
 ### **🖋 네이밍**
-**Class & Constructor**
-
-- 클래스/생성자 이름은 **PascalCase**를 사용합니다.
-
-좋은 예 >
-
-```javascript
-  class Twitch
-```
-
-나쁜 예 >
-
-```javascript
-class twitch {}
-```
-
 **함수 & 변수 & 인스턴스**
 
 - 함수와 변수, 인스턴스에는 **lowCamelCase**를 사용합니다.
