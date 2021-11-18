@@ -29,13 +29,13 @@
 좋은 예 >
 
 ```javascript
-  class TakeUs
+  class Twitch
 ```
 
 나쁜 예 >
 
 ```javascript
-class takeus {}
+class twitch {}
 ```
 
 **함수 & 변수 & 인스턴스**
