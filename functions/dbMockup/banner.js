@@ -14,7 +14,7 @@ module.exports = [
     id: 2,
     title: "롬맨맨",
     thumbnailImg:
-      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/main_banner.png",
+      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/thumbnail_rommanman.png",
     useName: "마법사",
     followerCount: "1249",
     messageList: messages,
@@ -23,16 +23,16 @@ module.exports = [
     id: 3,
     title: "Dead by Daylight",
     thumbnailImg:
-      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/main_banner.png",
+      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/thumbnail_deadByDaylight.png",
     useName: "나는야천재",
     followerCount: "12365",
     messageList: messages,
   },
   {
-    id: 1,
+    id: 4,
     title: "배그중",
     thumbnailImg:
-      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/main_banner.png",
+      "https://storage.googleapis.com/we-sopt-29-server.appspot.com/thumbnail_battleground.png",
     useName: "배그신",
     followerCount: "3244",
     messageList: messages,
