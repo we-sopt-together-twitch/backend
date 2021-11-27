@@ -6,7 +6,7 @@
 
 # API 명세서
 
-[API 명세서 링크]()
+[API 명세서 링크](https://www.notion.so/storypanda/f419a9a4202249658187d384eeb7de4f)
 
 # 프로젝트 폴더링
 
